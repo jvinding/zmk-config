@@ -1,3 +1,5 @@
+#define MIRYOKU_CLIPBOARD_MAC
+
 #define MIRYOKU_LAYER_BASE \
 &kp Q,             &kp W,              &kp F,              &kp P,              &kp G,              &kp J,               &kp L,              &kp U,              &kp Y,              SQT,                 \
 U_MT(LCTRL, A),    U_MT(LALT, R),      U_MT(LGUI, S),      U_MT(LSHFT, T),     U_MT(HYPR, D),      U_MT(HYPR, H),       U_MT(RSHFT, N),     U_MT(RGUI, E),      U_MT(RALT, I),      U_MT(RCTRL, O),      \
